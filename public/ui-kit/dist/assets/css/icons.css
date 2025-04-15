@@ -37040,6 +37040,11 @@ readers do not read off random characters that represent icons */
   content: "\ed24";
 }
 
+.ti-brand-x:before {
+  content: "\f099";  /* This is Font Awesome's Twitter/X icon code */
+  font-family: "tabler-icons";
+}
+
  .ti-brand-asana:before {
   content: "\edc5";
 }

@@ -26,7 +26,7 @@
                 <li class="dropdown">
                     <button id="navAppsLink" data-dropdown-toggle="navApps"
                         class="dropdown-toggle text-base flex w-full items-center border-b border-gray-800 py-2 px-3 font-medium md:border-0 md:p-0">
-                        Curriculum vitae
+                        Curriculum Vitae
                         <i class="ti ti-chevron-down ml-auto lg:ml-1"></i>
                     </button>
                     <div id="navApps"
@@ -36,7 +36,7 @@
                                 <a href="inbox.html" class="nav-link  dark:hover:bg-slate-800/70">Arabic version</a>
                             </li>
                             <li>
-                                <a href="email-read.html" class="nav-link  dark:hover:bg-slate-800/70">English
+                                <a href="{{ route('english_cv') }}" class="nav-link  dark:hover:bg-slate-800/70">English
                                     version</a>
                             </li>
                             <li>
@@ -46,16 +46,20 @@
                     </div>
                 </li>
                 <li class="dropdown">
-                    <button id="navUIkitLink" data-dropdown-toggle="navUIkit"
-                        class="dropdown-toggle text-base flex w-full items-center border-b border-gray-800 py-2 px-3 font-medium md:border-0 md:p-0">
-                        Chronology of Art
-                    </button>
+                    <a href="{{ route('chronology') }}">
+                        <button id="navUIkitLink" data-dropdown-toggle="navUIkit"
+                            class="dropdown-toggle text-base flex w-full items-center border-b border-gray-800 py-2 px-3 font-medium md:border-0 md:p-0">
+                            Art Chronology
+                        </button>
+                    </a>
                 </li>
                 <li class="dropdown">
+                    <a href="{{ route('articles') }}">
                     <button id="navPagesLink" data-dropdown-toggle="navPages"
                         class="dropdown-toggle text-base flex w-full items-center border-b border-gray-800 py-2 px-3 font-medium md:border-0 md:p-0">
                         Articles
                     </button>
+                </a>
                 </li>
                 <li class="dropdown">
                     <button id="navAuthLink" data-dropdown-toggle="navAuth"

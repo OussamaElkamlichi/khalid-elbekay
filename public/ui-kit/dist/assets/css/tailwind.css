@@ -2018,6 +2018,10 @@ form {
     margin: 0px !important;
 }
 
+.m-5 {
+    margin: 1.25rem !important;
+}
+
 .mx-auto {
     margin-left: auto !important;
     margin-right: auto !important;
@@ -2051,6 +2055,11 @@ form {
 .mx-1 {
     margin-left: 0.25rem !important;
     margin-right: 0.25rem !important;
+}
+
+.mx-7 {
+    margin-left: 1.75rem !important;
+    margin-right: 1.75rem !important;
 }
 
 .my-4 {
@@ -2122,6 +2131,10 @@ form {
 
 .ml-2 {
     margin-left: 0.5rem !important;
+}
+
+.ml-16{
+    margin-left: 4rem !important;
 }
 
 .mt-1 {
