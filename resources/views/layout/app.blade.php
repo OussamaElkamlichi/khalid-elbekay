@@ -19,7 +19,7 @@
 </head>
 
 <body class="bg-gray-100 dark:bg-gray-900 bg-[url('../images/bg-body.png')]">
-    @include('layout.navbar')
+    {{-- @include('layout.navbar') --}}
     <div class="min-h-[calc(100vh-138px)] relative pb-14">
         @yield('content')
     </div>

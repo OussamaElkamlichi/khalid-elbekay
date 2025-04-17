@@ -2136,7 +2136,9 @@ form {
 .ml-16{
     margin-left: 4rem !important;
 }
-
+.mt-custom {
+            margin-top: 10%;
+ }
 .mt-1 {
     margin-top: 0.25rem !important;
 }
@@ -4070,6 +4072,10 @@ form {
 
 .pt-4 {
     padding-top: 1rem !important;
+}
+
+.pt-48{
+    padding-top: 12rem !important;
 }
 
 .pl-12 {
