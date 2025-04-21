@@ -2014,6 +2014,10 @@ form {
     margin: auto !important;
 }
 
+.m-9 {
+    margin: 2.25rem;
+}
+
 .m-0 {
     margin: 0px !important;
 }
@@ -2133,12 +2137,22 @@ form {
     margin-left: 0.5rem !important;
 }
 
-.ml-16{
+.ml-16 {
     margin-left: 4rem !important;
 }
+
+.h-300 {
+    height: 300px;
+}
+
+.w-300 {
+    height: 300px;
+}
+
 .mt-custom {
-            margin-top: 10%;
- }
+    margin-top: 10%;
+}
+
 .mt-1 {
     margin-top: 0.25rem !important;
 }
@@ -2289,6 +2303,10 @@ form {
 
 .mt-8 {
     margin-top: 2rem !important;
+}
+
+.mt-10{
+    margin-top: 2.5rem;	
 }
 
 .block {
@@ -4074,7 +4092,7 @@ form {
     padding-top: 1rem !important;
 }
 
-.pt-48{
+.pt-48 {
     padding-top: 12rem !important;
 }
 

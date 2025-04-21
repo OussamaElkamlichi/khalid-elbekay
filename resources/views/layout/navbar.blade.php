@@ -12,7 +12,6 @@
 
         <div class="order-2 hidden w-full items-center justify-center md:order-1 md:flex md:w-auto mx-auto"
             id="mobile-menu-2">
-
             <ul
                 class="font-body mt-4 text flex flex-col font-medium md:mt-0 md:flex-row md:text-sm md:font-medium space-x-0 md:space-x-4 lg:space-x-6 xl:space-x-8 navbar">
                 <li class="dropdown">
@@ -23,6 +22,7 @@
                         </button>
                     </a>
                 </li>
+
                 <li class="dropdown">
                     <button id="navAppsLink" data-dropdown-toggle="navApps"
                         class="dropdown-toggle text-base flex w-full items-center border-b border-gray-800 py-2 px-3 font-medium md:border-0 md:p-0">
@@ -36,31 +36,36 @@
                                 <a href="inbox.html" class="nav-link  dark:hover:bg-slate-800/70">Arabic version</a>
                             </li>
                             <li>
-                                <a href="{{ route('english_cv') }}" class="nav-link  dark:hover:bg-slate-800/70">English
+                                <a href="{{ route('cv.english') }}" class="nav-link  dark:hover:bg-slate-800/70">English
                                     version</a>
                             </li>
                             <li>
-                                <a href="chat.html" class="nav-link  dark:hover:bg-slate-800/70">Spanish version</a>
+                                <a href="" class="nav-link  dark:hover:bg-slate-800/70">Spanish version</a>
                             </li>
                         </ul>
                     </div>
                 </li>
+
                 <li class="dropdown">
-                    <a href="{{ route('chronology') }}">
-                        <button id="navUIkitLink" data-dropdown-toggle="navUIkit"
-                            class="dropdown-toggle text-base flex w-full items-center border-b border-gray-800 py-2 px-3 font-medium md:border-0 md:p-0">
-                            Art Chronology
-                        </button>
-                    </a>
-                </li>
-                <li class="dropdown">
-                    <a href="{{ route('articles') }}">
                     <button id="navPagesLink" data-dropdown-toggle="navPages"
                         class="dropdown-toggle text-base flex w-full items-center border-b border-gray-800 py-2 px-3 font-medium md:border-0 md:p-0">
-                        Articles
+                        Art
+                        <i class="ti ti-chevron-down ml-auto lg:ml-1"></i>
                     </button>
-                </a>
+                    <div id="navPages"
+                        class="dropdown-menu z-10 my-1 hidden w-full list-none divide-y divide-gray-100 rounded bg-gray-800 md:bg-white text-base shadow dark:divide-gray-600 border border-slate-700 md:border-white dark:border-slate-700/50 dark:bg-gray-900 md:w-44 dropdown-menu">
+                        <ul class="py-1">
+                            <li>
+                                <a href="{{ route('art.chronology') }}" class="nav-link  dark:hover:bg-slate-800/70">Art
+                                    Chronology</a>
+                            </li>
+                            <li>
+                                <a href="{{route('art.available')}}" class="nav-link  dark:hover:bg-slate-800/70">Art for sale</a>
+                            </li>
+                        </ul>
+                    </div>
                 </li>
+
                 <li class="dropdown">
                     <button id="navAuthLink" data-dropdown-toggle="navAuth"
                         class="dropdown-toggle text-base flex w-full items-center border-b border-gray-800 py-2 px-3 font-medium md:border-0 md:p-0">
@@ -89,6 +94,16 @@
                         </ul>
                     </div>
                 </li>
+
+                <li class="dropdown">
+                    <a href="{{ route('articles.index') }}">
+                        <button id="navDashboardLink" data-dropdown-toggle="navDashboard"
+                            class="dropdown-toggle text-base flex w-full items-center border-b border-gray-800 py-2 px-3 font-medium md:border-0 md:p-0 ">
+                            Articles
+                        </button>
+                    </a>
+                </li>
+
             </ul>
         </div>
 
@@ -101,5 +116,6 @@
                 <i class="ti ti-X hidden h-6 w-6 text-lg leading-6"></i>
             </button>
         </div>
+
     </div>
 </nav>
