@@ -64,13 +64,13 @@
                 </p>
                 <ul class="list-none">
                     <li class="mb-2"><i class="fa-solid fa-cake-candles text-slate-400 mr-2"></i>
-                        <span class="text-slate-500 text-sm">06 June 1989</span>
+                        <span class="text-slate-500 text-sm">06 June 1966</span>
                     </li>
                     <li class="mb-2"><i class="fa-solid fa-language text-slate-400 mr-2"></i>
-                        <span class="text-slate-500 text-sm">English, French, German</span>
+                        <span class="text-slate-500 text-sm">English, French, Spanish</span>
                     </li>
                     <li class="mb-2"><i class="far fa-flag text-slate-400 mr-2"></i>
-                        <span class="text-slate-500 text-sm">USA</span>
+                        <span class="text-slate-500 text-sm">Morocco</span>
                     </li>
                     <li class="mb-2"><i class="fa-solid fa-shield-halved text-slate-400 mr-2"></i>
                         <span class="text-slate-500 text-sm">Reading, journey</span>
@@ -86,7 +86,7 @@
                         <span class="text-slate-500 text-sm">+1 234 567 890</span>
                     </li>
                     <li class="mb-2"><i class="fa-regular fa-envelope text-slate-400 mr-2"></i>
-                        <span class="text-slate-500 text-sm">example@example.com</span>
+                        <span class="text-slate-500 text-sm">contact@khalid-elbekay.com</span>
                     </li>
                 </ul>
                 <button

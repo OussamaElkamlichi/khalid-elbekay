@@ -33,14 +33,16 @@
                         class="dropdown-menu z-10 my-1 hidden w-full list-none divide-y divide-gray-100 rounded bg-gray-800 md:bg-white text-base shadow dark:divide-gray-600 border border-slate-700 md:border-white dark:border-slate-700/50 dark:bg-gray-900 md:w-44 dropdown-menu">
                         <ul class="py-1">
                             <li>
-                                <a href="" class="nav-link  dark:hover:bg-slate-800/70">Arabic version</a>
+                                <a href="{{ route('cv.arabic') }}" class="nav-link  dark:hover:bg-slate-800/70">Arabic
+                                    version</a>
                             </li>
                             <li>
                                 <a href="{{ route('cv.english') }}" class="nav-link  dark:hover:bg-slate-800/70">English
                                     version</a>
                             </li>
                             <li>
-                                <a href="" class="nav-link  dark:hover:bg-slate-800/70">Spanish version</a>
+                                <a href="{{ route('cv.spanish') }}" class="nav-link  dark:hover:bg-slate-800/70">Spanish
+                                    version</a>
                             </li>
                         </ul>
                     </div>
@@ -60,7 +62,8 @@
                                     Chronology</a>
                             </li>
                             <li>
-                                <a href="{{route('art.available')}}" class="nav-link  dark:hover:bg-slate-800/70">Art for sale</a>
+                                <a href="{{ route('art.available') }}" class="nav-link  dark:hover:bg-slate-800/70">Art
+                                    for sale</a>
                             </li>
                         </ul>
                     </div>
