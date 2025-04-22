@@ -33,7 +33,7 @@
                         class="dropdown-menu z-10 my-1 hidden w-full list-none divide-y divide-gray-100 rounded bg-gray-800 md:bg-white text-base shadow dark:divide-gray-600 border border-slate-700 md:border-white dark:border-slate-700/50 dark:bg-gray-900 md:w-44 dropdown-menu">
                         <ul class="py-1">
                             <li>
-                                <a href="inbox.html" class="nav-link  dark:hover:bg-slate-800/70">Arabic version</a>
+                                <a href="" class="nav-link  dark:hover:bg-slate-800/70">Arabic version</a>
                             </li>
                             <li>
                                 <a href="{{ route('cv.english') }}" class="nav-link  dark:hover:bg-slate-800/70">English
@@ -76,20 +76,20 @@
                         class="dropdown-menu z-10 my-1 hidden w-full list-none divide-y divide-gray-100 rounded bg-gray-800 md:bg-white text-base shadow dark:divide-gray-600 border border-slate-700 md:border-white dark:border-slate-700/50 dark:bg-gray-900 md:w-44 dropdown-menu">
                         <ul class="py-1">
                             <li>
-                                <a href="login.html" class="nav-link  dark:hover:bg-slate-800/70">Tunisia</a>
+                                <a href="" class="nav-link  dark:hover:bg-slate-800/70">Tunisia</a>
                             </li>
                             <li>
-                                <a href="register.html" class="nav-link  dark:hover:bg-slate-800/70">Qatar</a>
+                                <a href="" class="nav-link  dark:hover:bg-slate-800/70">Qatar</a>
                             </li>
                             <li>
-                                <a href="re-password.html" class="nav-link  dark:hover:bg-slate-800/70">Dubai</a>
+                                <a href="" class="nav-link  dark:hover:bg-slate-800/70">Dubai</a>
                             </li>
                             <li>
-                                <a href="lock-screen.html" class="nav-link  dark:hover:bg-slate-800/70">
+                                <a href="" class="nav-link  dark:hover:bg-slate-800/70">
                                     Rabat</a>
                             </li>
                             <li>
-                                <a href="404.html" class="nav-link  dark:hover:bg-slate-800/70">Casablanca</a>
+                                <a href="" class="nav-link  dark:hover:bg-slate-800/70">Casablanca</a>
                             </li>
                         </ul>
                     </div>
