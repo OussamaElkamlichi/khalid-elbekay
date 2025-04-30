@@ -675,6 +675,13 @@ input[type="checkbox"]:checked~input[type="checkbox"]:checked~input[type="checkb
     border-radius: 0.25rem;
 }
 
+@font-face {
+    font-family: 'Maghribi';
+    src: url('../fonts/maghribi.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
 .icon-demo-content i {
     margin-left: auto;
     margin-right: auto;
