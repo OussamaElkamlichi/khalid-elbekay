@@ -23,8 +23,8 @@
                             <span class="whitespace-nowrap" style="font-family: 'Maghribi', sans-serif;">خالد البكاي</span>
                         </h1>
                         <p class="text-xl md:text-2xl mb-8 max-w-2xl text-gray-600"
-                            style="font-family: 'Maghribi', sans-serif;"><b>-</b>
-                            فنان تشكيلي</p>
+                            style="font-family: 'Maghribi', sans-serif;">
+                         فنان تشكيلي <b>-</b></p>
                     </div>
                 </div>
             </div>
