@@ -38,13 +38,14 @@
                         {{-- <span class="mb-1 text-xs font-normal text-gray-400 sm:order-last sm:mb-0">just now</span> --}}
                         <div class="text-base font-normal text-gray-500 dark:text-gray-300 w-full ">
                             <a href="{{ route('cv.english') }}"
-                                class="font-semibold text-blue-600 dark:text-blue-500 hover:underline mb-2 inline-block">Short
-                                biography
+                                class="font-semibold text-blue-600 dark:text-blue-500 hover:underline mb-2 inline-block">El
+                                Bekay, symbols of identity
+                                “by Raquel Medina”
                             </a><br>
-                            Born in 1966 in Casablanca, Khalid El Bekay graduated from the Higher Institute of Fine Arts in
-                            Tetouan in 1990 and graduated from the Faculty of Fine Arts in Barcelona, ​​engraving section.
-                            His first exhibition dates from 1995 in Barcelona. In 1997, he was finalist of the 30th Biennial
-                            of painting of Tarragona.
+                            Thirty years into Khalid El Bekay’s career as an artist, we now have enough perspective to look
+                            back on development and analyse his achievements and essential output resulting from three
+                            decades of rich experience. He was never an ordinary artist. Trained in Morocco, he moved to
+                            Barcelona in the early 1990s...
                             {{-- <span
                                 class="bg-gray-100 text-gray-800 text-xs font-normal mr-2 px-2.5 py-0.5 rounded dark:bg-gray-600 dark:text-gray-300">USA
                                 Group</span> --}}

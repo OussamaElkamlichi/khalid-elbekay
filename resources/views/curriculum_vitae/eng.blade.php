@@ -31,60 +31,60 @@
                 <h6 class="font-semibold text-sm uppercase text-slate-400">About</h6>
             </div><!--end card-body-->
             <div class="card-body mx-2">
-                <p class="text-slate-500 text-[15px] mb-4">
-                    <strong>Khalid El Bekay</strong> is a renowned Moroccan-Spanish contemporary artist known for his
-                    unique blend of Eastern and Western cultural influences in his artwork.<br><br>
+                <div class="text-slate-500 text-[15px] mb-4 leading-relaxed">
+                    <h6 class="font-bold text-lg mb-2">Education / Biography</h6>
+                    <ul class="list-disc pl-5 mb-4">
+                        <li><strong>1990:</strong> Diploma in Fine Arts, Higher Institute of Fine Arts of Tetouan, Morocco.
+                        </li>
+                        <li>Printmaking internship, French Cultural Center, Tetouan, Morocco.</li>
+                        <li><strong>1991:</strong> Moved to Barcelona.</li>
+                        <li><strong>1995:</strong> Bachelor’s Degree in Fine Arts, specialization in Printmaking, University
+                            of Barcelona.</li>
+                        <li><strong>1997:</strong> Joined Centre d’Art Contemporani Piramidón, Barcelona.</li>
+                        <li><strong>2001:</strong> Founder of ASSO. Contemporary Artists of Catalonia.</li>
+                        <li><strong>2007:</strong> Opened second studio in Casablanca.</li>
+                        <li><strong>2024:</strong> Curator, Moroccan Pavilion, FIG BILBAO.</li>
+                    </ul>
 
-                    <strong>Biography:</strong><br>
-                    <strong>Born:</strong> 1966 in Casablanca, Morocco.<br>
-                    <strong>Education:</strong> Graduated from the Higher Institute of Fine Arts in Tetouan, Morocco
-                    (1990). Studied engraving at the Faculty of Fine Arts in Barcelona.<br>
-                    <strong>Residence:</strong> Splits time between Barcelona and Casablanca, maintaining studios in
-                    both cities.<br><br>
+                    <h6 class="font-bold text-lg mb-2">Solo Exhibitions</h6>
+                    <ul class="list-disc pl-5 mb-4">
+                        <li><strong>2025:</strong> *Transparency*, Markhiya Art Gallery, Doha, Qatar.</li>
+                        <li><strong>2023:</strong> *Africa*, Espiral Art Gallery, Noja, Santander.</li>
+                        <li><strong>2022:</strong> *Africa*, Piramidón Art Gallery, Barcelona.</li>
+                    </ul>
 
-                    <strong>Artistic Style & Techniques:</strong><br>
-                    - Collage & Mixed Media: Layers gray or white paper on wood without sharp tools<br>
-                    - Cultural Fusion: Merges Moroccan and Mediterranean influences with vibrant colors<br>
-                    - Evolution: From figurative to abstract, later incorporating Chinese calligraphy<br><br>
+                    <h6 class="font-bold text-lg mb-2">Group Exhibitions</h6>
+                    <ul class="list-disc pl-5 mb-4">
+                        <li><strong>2024:</strong> Orient Art Gallery, Amman, Jordan.</li>
+                        <li><strong>2023:</strong> Guanlan Printmaking Art Museum, Shenzhen.</li>
+                    </ul>
 
-                    <strong>Key Themes:</strong><br>
-                    - Dual Identity: Bridges Moroccan heritage and Catalan life<br>
-                    - Nature & Earth: Describes work as a "dialogue with the earth"<br><br>
+                    <h6 class="font-bold text-lg mb-2">International Fairs</h6>
+                    <ul class="list-disc pl-5 mb-4">
+                        <li><strong>2024:</strong> Art Madrid, Espiral Gallery | Fig Bilbao, Manera Negra.</li>
+                        <li><strong>2022:</strong> Fig Bilbao, Manera Negra.</li>
+                    </ul>
 
-                    <strong>Exhibitions & Recognition:</strong><br>
-                    - Exhibited globally (MIART, Bologna Art Fair, Venice, solo shows in Rabat, Geneva, Madrid)<br>
-                    - Finalist at 30th Tarragona Painting Biennial (1997)<br>
-                    - Works in Royal Palace of Morocco, World Trade Center Barcelona, Watercolor Museum of
-                    Girona<br><br>
-
-                    <strong>Quotes:</strong><br>
-                    "My work is a mixture of Western and Eastern cultures... My paintings materialize my dialogue with
-                    the earth."<br>
-                    "Emigrating is giving and receiving. We are ambassadors of our culture."
-                </p>
-                <ul class="list-none">
-                    <li class="mb-2"><i class="fa-solid fa-cake-candles text-slate-400 mr-2"></i>
-                        <span class="text-slate-500 text-sm">06 June 1966</span>
-                    </li>
-                    <li class="mb-2"><i class="fa-solid fa-language text-slate-400 mr-2"></i>
-                        <span class="text-slate-500 text-sm">English, French, Spanish</span>
-                    </li>
-                    <li class="mb-2"><i class="far fa-flag text-slate-400 mr-2"></i>
-                        <span class="text-slate-500 text-sm">Morocco</span>
-                    </li>
-                    <li class="mb-2"><i class="fa-solid fa-shield-halved text-slate-400 mr-2"></i>
-                        <span class="text-slate-500 text-sm">Reading, journey</span>
-                    </li>
-                </ul>
+                    <h6 class="font-bold text-lg mb-2">Public and Private Collections</h6>
+                    <p>
+                        Royal Palace, Morocco | World Trade Center, Barcelona | Watercolor Museum, Llançà | BMC Bank,
+                        Morocco | Hotel Nafis, Marrakech |
+                        Ethnological Museum, Arbucies | City Hall of Salou | Higher Institute of Fine Arts, Tetouan |
+                        Piramidón Art Center, Barcelona |
+                        Saadi Palace Hotel, Marrakech | SG Bank, Casablanca | CNIA, Casablanca | Ministry of the Interior,
+                        Rabat | Ministry of Finance, Rabat |
+                        Parliament, Rabat | NH Hotels (Barcelona, Milan, Lisbon, Nice, Madrid) | ONCF Station, Rabat-Ville |
+                        CDG, Rabat | Ministry of Education, Rabat |
+                        MV Museum, Rabat and Marrakech | Mamounia Palace, Marrakech.
+                    </p>
+                </div>
             </div>
+
             <div class="card-body border-b rounded border-dashed dark:border-gray-700">
                 <h6 class="font-semibold text-sm uppercase text-slate-400">Contact</h6>
             </div><!--end card-body-->
             <div class="card-body">
                 <ul class="list-none mb-3">
-                    <li class="mb-2"><i class="fa-solid fa-phone text-slate-400 mr-2"></i>
-                        <span class="text-slate-500 text-sm">+1 234 567 890</span>
-                    </li>
                     <li class="mb-2"><i class="fa-regular fa-envelope text-slate-400 mr-2"></i>
                         <span class="text-slate-500 text-sm">contact@khalid-elbekay.com</span>
                     </li>
