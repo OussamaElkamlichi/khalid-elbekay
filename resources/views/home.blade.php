@@ -9,24 +9,21 @@
 
         <section class="h-screen flex items-center">
             <div class="container mx-auto px-6 ">
-                <div class="flex flex-col md:flex-row justify-between ">
-                    <div class="text-left md:text-left md:order-1">
-                        <h1
-                            class="text-4xl text-gray-600 md:text-6xl md:text-white lg:text-7xl lg:text-black font-bold mb-6">
+                <div class="flex flex-col md:flex-row justify-between">
+                    <div class="w-full md:w-1/2 text-left md:order-1">
+                        <h1 id="ha"
+                            class="w-full text-4xl text-gray-600 md:text-6xl md:text-white lg:text-7xl lg:text-black font-bold mb-6">
                             Khalid <span class="whitespace-nowrap">El Bekay</span>
                         </h1>
-                        <p class="text-xl md:text-2xl mb-8 max-w-2xl text-gray-600"><b>-</b> Artiste peinture</p>
                     </div>
-                    <div class="text-right md:text-right md:order-2">
-                        <h1
-                            class="text-4xl text-gray-600 md:text-6xl md:text-white lg:text-7xl lg:text-black font-bold mb-6">
+                    <div class="w-full md:w-1/2 text-right md:order-2">
+                        <h1 id="haha"
+                            class="w-full text-4xl text-gray-600 md:text-6xl md:text-white lg:text-7xl lg:text-black font-bold mb-6">
                             <span class="whitespace-nowrap" style="font-family: 'Maghribi', sans-serif;">خالد البكاي</span>
                         </h1>
-                        <p class="text-xl md:text-2xl mb-8 max-w-2xl text-gray-600"
-                            style="font-family: 'Maghribi', sans-serif;">
-                         فنان تشكيلي <b>-</b></p>
                     </div>
                 </div>
+
             </div>
         </section>
 
